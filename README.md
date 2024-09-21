@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiranashfaq" alt="kiranashfaq" /></a> </p>
 
-- 🌱 I’m currently learning **UI/UX designing**
+- 🌱 I’m currently learning **WEB DEVELOPMENT**
 
 - 👯 I’m looking to collaborate on **ReactProject**
 
@@ -30,3 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranashfaq&show_icons=true&locale=en" alt="kiranashfaq" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranashfaq&" alt="kiranashfaq" /></p>

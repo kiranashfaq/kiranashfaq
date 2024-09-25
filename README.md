@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React,JavaScript**
 
-- 📫 How to reach me **ahmedmemon4123@gmail.com**
+- 📫 How to reach me **kiran.ashfaq148@gmail.com**
 
 - ⚡ Fun fact **I’m a frontend developer by day and a painter by night!**
 
